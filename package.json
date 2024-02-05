@@ -1,0 +1,24 @@
+{
+  "name": "caradise",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiadkhatibb/Caradise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eiadkhatibb/Caradise/issues"
+  },
+  "homepage": "https://github.com/eiadkhatibb/Caradise#readme",
+  "dependencies": {
+    "react-emoji": "^0.5.0",
+    "socket.io-client": "^4.6.1"
+  }
+}
